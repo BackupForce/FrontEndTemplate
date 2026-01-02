@@ -1,0 +1,34 @@
+{
+  "appTitle": "Admin SPA Template",
+  "dashboard": "Dashboard",
+  "users": "Users",
+  "settings": "Settings",
+  "loading": "Loading...",
+  "logout": "Logout",
+  "welcome": "Welcome, {{name}}",
+  "tabs": {
+    "close": "Close Tab"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "toggle": "Toggle Theme"
+  },
+  "actions": {
+    "refresh": "Refresh",
+    "remove": "Remove"
+  },
+  "status": {
+    "mockEnabled": "Mock Mode Enabled",
+    "apiBase": "API Base"
+  },
+  "errors": {
+    "unknown": "Unexpected error"
+  },
+  "table": {
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "actions": "Actions"
+  }
+}

@@ -1,6 +1,0 @@
-{
-  "Payables.AlreadyCanceled": "該筆應付帳款已取消，無法刪除",
-  "Validation.General": "欄位驗證失敗，請檢查輸入內容",
-  "General.Null": "系統收到無效的值",
-  "General.Unknown": "發生未知錯誤，請稍後再試"
-}
