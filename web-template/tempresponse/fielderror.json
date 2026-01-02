@@ -1,0 +1,15 @@
+{
+    "type": "https://tools.ietf.org/html/rfc7231#section-6.5.1",
+    "title": "Validation.General",
+    "status": 400,
+    "detail": "One or more validation errors occurred",
+    "errors": [
+        {
+            "code": "GreaterThanOrEqualValidator",
+            "description": "Due date cannot be before issue date.",
+            "type": 2,
+            "field": "Request.DueDate"
+        }
+    ],
+    "traceId": "00-659c149d4f8cbe11e90478ca215b152c-effc619e79e75c6a-01"
+}

@@ -1,0 +1,13 @@
+{
+  "logo": "Admin Panel",
+  "search.placeholder": "Type keywords...",
+  "profile": "Profile",
+  "logout": "Logout",
+  "menu": {
+    "title": "Menu",
+    "intro": "Introduction",
+    "design": "Design Values",
+    "cases": "Cases"
+  },
+  "footer": "Ant Design ©2025 Created by Ant UED"
+}

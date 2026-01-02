@@ -1,0 +1,52 @@
+{
+  "fields": {
+    "invoiceNumber": {
+      "label": "發票號碼",
+      "placeholder": "請輸入發票號碼"
+    },
+    "invoiceDate": {
+      "label": "發票日期"
+    },
+    "issueDate": {
+      "label": "開立日期"
+    },
+    "dueDate": {
+      "label": "到期日"
+    },
+    "accountingDate": {
+      "label": "入帳日"
+    },
+    "originalAmount": {
+      "label": "原始金額"
+    },
+    "baseAmount": {
+      "label": "結算金額"
+    },
+    "status": {
+      "label": "狀態"
+    },
+    "customerName": {
+      "label": "客戶名稱"
+    }
+  },
+  "status": {
+    "unpaid": "未收款",
+    "paid": "已收款",
+    "cancelled": "已作廢"
+  },
+  "create": {
+    "title": "新增應收款",
+    "success": "新增成功",
+    "error": "新增失敗"
+  },
+  "edit": {
+    "title": "編輯應收款",
+    "success": "更新成功",
+    "error": "更新失敗"
+  },
+  "delete": {
+    "confirm": "確定要刪除這筆應收款嗎？",
+    "success": "刪除成功",
+    "error": "刪除失敗"
+  }
+}
